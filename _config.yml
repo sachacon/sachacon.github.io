@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sergio Chacon / Personal Site"
 title_separator          : "-"
 name                     : &name "Sergio Chacon"
-description              : &description "UT Austin ECE Graduate Student"
+description              : &description "UT Austin ECE M.S. Graduate Student"
 url                      : https://sachacon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sachacon.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sergio Chacon"
   avatar           : "profile.png"
-  bio              : "UT Austin ECE Grad Student, Integrated Circuits & Systems"
+  bio              : "UT Austin ECE M.S. Grad Student, Integrated Circuits & Systems"
   location         : "Austin, TX"
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sachaocn"
+  github           : "sachacon"
   google_plus      :
   keybase          :
   instagram        :
