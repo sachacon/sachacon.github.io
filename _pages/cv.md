@@ -11,22 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in ECE, UT Austin, Fall 2017 - Spring 2020
+* M.S. in ECE, UT Austin, Spring 2021 - Spring 2022 (Expected)
+* Enrolled in Integrated BS/MSEE Program 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Texas Instruments: Test Engineering Intern
+  * Summer 2019
+  * Responsibilities: Tagging issues
+  * Manager: Nithya Ravindran
 
-* Fall 2015: Research Assistant
+* Texas Instruments: Product and Validation Engineering Intern
+  * Summer 2018
+  * Responsibilities: 
+    * Driving Qualification and Characterization for Commercial Device
+    * Developing PCB boards for Validation team 
+    * Operating and Collecting Data from Validation Workstation 
+  * Manager: Dinesh Prasad Venkat-Rao
+
+* Spring to Fall 2020: Undergraduate TA 
   * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Responsibilities: 
+  * Professors: Dr. Telang, Dr. Pan, Dr. Kulkarni, Dr. Touba
   
+* Fall 2019: EE411 Undergraduate TA 
+  * Github University
+  * Responsibilities: Merging pull requests
+  * Professors: Dr. Alfonso Cuevas
+  
+
+Relevant Courses
+======
+* EE382M-14 - Verification of Digital Systems 
+  * Dr. Jacob Abraham
+* EE382M-11 - Analog Integrated Circuit Design
+  * Dr. Ramin Zanbaghi
+* EE460R - VLSI I  
+  * Dr. Jacob Abraham
+* EE438K - Analog Electronics
+  * Dr. Ranjit Gharpurey
+* EE460N - Computer Architcecture 
+  * Dr. Yale Patt
+
 Skills
 ======
 * Skill 1
@@ -36,24 +63,3 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
