@@ -19,18 +19,21 @@ Work experience
 ======
 * Texas Instruments: Test Engineering Intern
   * Summer 2019
-  * Responsibilities: Tagging issues
+  * Responsibilities:
+    * Modifying Final Test and Characterization C++ Programs
+    * Developing PCB boards for ATE Test Setup
+    * Data Analysis on Probe Data
   * Manager: Nithya Ravindran
 
 * Texas Instruments: Product and Validation Engineering Intern
   * Summer 2018
   * Responsibilities: 
-    * Driving Qualification and Characterization for Commercial Device
+    * Driving Qualification and Characterization for a Commercial Device
     * Developing PCB boards for Validation team 
     * Operating and Collecting Data from Validation Workstation 
   * Manager: Dinesh Prasad Venkat-Rao
 
-* Spring to Fall 2020: Undergraduate TA 
+* Spring and Fall 2020: Undergraduate TA 
   * Github University
   * Responsibilities: 
   * Professors: Dr. Telang, Dr. Pan, Dr. Kulkarni, Dr. Touba
@@ -62,10 +65,24 @@ Important Undergraduate Courses
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* UVM
+* Xilinx FPGAs
+* LTSpice
+* Programming Languages
+  * SystemVerilog
+  * C/C++
+  * Python 
+  * LabVIEW
+* EDA Tools
+  * Cadence Virtuoso 
+  * Cadence Jaspergold
+  * Cadence Spectre
+  * Synopsys HSPICE
+* PCB Software
+  * Altium PCB Design
+  * Cadence Allegro
+* Lab Equipment
+  * Teradyne ETS-88 (ATE)
+  * Thermostream
+  * Oscilloscope, Function Generators, Multimeters
 
