@@ -18,7 +18,7 @@ SSP UART Verification - EE382M-11
 * Worked with graduate team to verify Synchronous Serial Port with UART communication
 * Formally verified design with assertion properties written in System Verilog and proven with Cadence Jaspergold
 * Contributed to writing UVM testbench and FPGA prototype verification
-* RTL Source Code:
+* RTL Source Code: [SSP_UART](https://opencores.org/projects/ssp_uart)
 * Verification Code: Coming Soon 
 
 Schematic-Level ALU Design - EE460R
