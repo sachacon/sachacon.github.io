@@ -15,7 +15,7 @@ Education
 * M.S. in ECE, UT Austin, Spring 2021 - Spring 2022 (Expected)
 * Enrolled in Integrated BS/MSEE Program 
 
-Work experience
+Work Experience
 ======
 * Texas Instruments: Test Engineering Intern
   * Summer 2019
