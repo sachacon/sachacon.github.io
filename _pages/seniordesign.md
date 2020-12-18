@@ -18,7 +18,7 @@ To test the capabilities of the TVM compiler, we used a top down structure, begi
 
 We evaluated the performance of each layer of our system and found that the use of an FPGA programmed with the VTA architecture greatly improves inference time, while using a SoC CPU on its own is significantly slower. In the case of ResNet-18, VTA is 2x better than the SoC CPU, while ResNet-50 sees a 5x improvement. We also found that the different autotuner configurations did not significantly improve inference time when compared to the default tuned configuration. After testing the tuners we created our own custom bitstreams, only to find that different clock speeds did not lead to any significant change in performance. Additionally, after examining the resource allocation within the PYNQ board, we discovered that we had an exceedingly high Look-up Table (LUT) usage and an exceedingly low Block Random Access Memory (BRAM) usage.
 
-![SeniorDesignChartComparison](https://github.com/sachacon/sachacon.github.io/blob/master/images/senior_design_chart.png)
+![SeniorDesignChartComparison](https://raw.githubusercontent.com/sachacon/sachacon.github.io/master/images/senior_design_chart.png)
 
 For further research, we would recommend teams look into the VTA architecture itself, as it has major memory bottlenecks that could be improved upon by leveraging the BRAM in the FPGA and reducing the high LUT utilization. The autotuner for TVM, AutoTVM, could also be researched further to see how performance changes with different CNNs. Overall, our results showed that leveraging an FPGA for inference applications leads to great performance increases, despite VTA’s suboptimal resource usage. Consequently, the architecture should be improved or recreated in a better form. 
 
