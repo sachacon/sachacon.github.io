@@ -20,7 +20,7 @@ Integrated Circuits & Systems
 Some Useful Sites
 ------
 * [edaplayground](https://www.edaplayground.com/)
-* https://opencores.org/
-* https://verificationacademy.com/
-* https://groups.io/g/LTspice
+* [opencores](https://opencores.org/)
+* [verificationacademy](https://verificationacademy.com/)
+* [groups.io/g/LTspice](https://groups.io/g/LTspice)
 
