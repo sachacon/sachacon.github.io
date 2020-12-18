@@ -23,7 +23,6 @@ Work experience
     * Modifying Final Test and Characterization C++ Programs
     * Developing PCB boards for ATE Test Setup
     * Data Analysis on Probe Data
-  * Manager: Nithya Ravindran
 
 * Texas Instruments: Product and Validation Engineering Intern
   * Summer 2018
@@ -31,16 +30,17 @@ Work experience
     * Driving Qualification and Characterization for a Commercial Device
     * Developing PCB boards for Validation team 
     * Operating and Collecting Data from Validation Workstation 
-  * Manager: Dinesh Prasad Venkat-Rao
 
 * Spring and Fall 2020: Undergraduate TA 
-  * Github University
   * Responsibilities: 
+    * Lead lab hours and discussion sessions with Graduate TA
+    * Hold office hours and grade assignments 
   * Professors: Dr. Telang, Dr. Pan, Dr. Kulkarni, Dr. Touba
   
 * Fall 2019: EE411 Undergraduate TA 
-  * Github University
-  * Responsibilities: Merging pull requests
+  * Responsibilities:
+    * Lead lab hours and discussion sessions with Graduate TA
+    * Hold office hours and grade assignments 
   * Professors: Dr. Alfonso Cuevas
   
 
@@ -69,7 +69,7 @@ Skills
 * Xilinx FPGAs
 * LTSpice
 * Programming Languages
-  * SystemVerilog
+  * Verilog/SystemVerilog
   * C/C++
   * Python 
   * LabVIEW
