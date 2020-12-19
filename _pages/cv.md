@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Sergio Chacon Resume Link: [SergioChaconResume](https://github.com/sachacon/sachacon.github.io/blob/master/files/SergioChaconResume.pdf)
+Sergio Chacon Resume [Link](https://github.com/sachacon/sachacon.github.io/blob/master/files/SergioChaconResume.pdf)
 
 Education
 ======
