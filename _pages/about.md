@@ -10,6 +10,8 @@ redirect_from:
 
 Welcome! My name is Sergio Chacon and I'm an Electrical and Computer Engineering student attending the University of Texas at Austin. I've been working towards my Bachelors degree in ECE since Fall 2017 and am finishing my undergraduate coursework in Fall 2020. I'm currently in an Integrated BS/MSEE Masters program so I'll be continuing my studies as a UT graduate student pursuing my Masters degree starting Spring 2020.  
 
+Other pages on this site include a CV and some favorite past projects 
+
 Personal Research Interests
 ------
 Integrated Circuits & Systems
