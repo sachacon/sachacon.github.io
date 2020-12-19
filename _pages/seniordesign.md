@@ -12,7 +12,7 @@ FPGA-Based Deep Learning Accelerator Using TVM Compiler
 * Advising Professor: Michael Orshansky
 * Teammates: Jeffrey Marshall, Troy Jackson, Sergio Chacon, Elgin Allen, Zach Sisti, Michael Pontikes
 
-Senior Design Poster Link: [SeniorDesignPoster](https://github.com/sachacon/sachacon.github.io/blob/master/files/SeniorDesignPoster.pdf)
+Link to [SeniorDesignPoster](https://github.com/sachacon/sachacon.github.io/blob/master/files/SeniorDesignPoster.pdf)
 
 The purpose of this short summary is to cover the results found from testing the efficacy of the Tensor Virtual Machine (TVM) compiler stack [1]. The TVM compiler is a Deep Learning (DL) compiler that focuses on flexibility, being capable of taking different frontend frameworks, compiling the DL models, and then deploying the models as low-level programs to different hardware backends. As a part of the TVM stack, the Versatile Tensor Accelerator (VTA) dual-ISA architecture is used to program the Field Programmable Gate Array (FPGA) [2]. The project focused on benchmarking the compiler’s performance in terms of inference times for Convolutional Neural Networks (CNNs). The compiler also leverages tuners and schedulers to further improve performance. 
 
