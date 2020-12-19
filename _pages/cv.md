@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Sergio Chacon Resume Link: [SergioChaconResume](https://github.com/sachacon/sachacon.github.io/blob/master/files/SergioChaconResume.pdf)
+
 Education
 ======
 * B.S. in ECE, UT Austin, Fall 2017 - Spring 2020
