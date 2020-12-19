@@ -9,7 +9,7 @@ redirect_from:
 
 I2C Controller Core Verification - Fall 2020/Spring 2021
 ------
-* - Ongoing -
+* Ongoing
 * Personal Project 
 * RTL Source Code: [I2C Controller Core](https://opencores.org/projects/i2c)
 * Verification Code: Coming Soon
@@ -45,5 +45,5 @@ Schematic-Level ALU Design - Fall 2020
 Op-Amp Based Low Frequency Waveform Generator - Summer 2018
 ------
 * Personal Project 
-*  - Update Coming Soon - 
+* Update Coming Soon 
 
